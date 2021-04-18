@@ -1,0 +1,1 @@
+document.getElementById("emailsubject").value;
