@@ -1,0 +1,31 @@
+ </h1>
+        <hr>
+    </header>
+        <h2 class="Work">Work Experience</h2>
+        <ul>
+            <li>
+                Domino's Woy Woy - (2019 - Present)
+            </li>
+        </ul>
+
+        <hr>
+    </body>
+    <body>
+        <h2 class="Education">Education</h2>
+        <p1>
+            St Peter's Catholic College Tuggerah - (2018 - Present)
+            <ul> 
+                <li>Distintion - National Computer Science School Challenge</li>
+                <li>Award of Academic Exellence in Information and Software Technology</li>
+
+            </ul>
+            <div>
+            Henry Kendall High School - (2017-2018)
+            </div>
+            <br>
+            <br>
+            All Saints Catholic School / College - (2010-2016)
+
+        </p1>
+    </body>
+</html>
